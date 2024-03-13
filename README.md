@@ -1,7 +1,7 @@
 <div align="center" id="top"> 
  <img src="./sample.png"  widh ="350" height="250"alt="Next Pay" />
  <img src="./sukses.png"  widh ="350" height="250"alt="Next Pay" />
- <img src="./sukses[1]"  widh ="350" height="250"alt="Next Pay" />
+ <img src="./sukses[1].png"  widh ="350" height="250"alt="Next Pay" />
 
 
 
