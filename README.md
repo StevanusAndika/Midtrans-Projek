@@ -42,7 +42,7 @@ membuat payment gateway dengan nextjs
 
 :heavy_check_mark: Pembayaran melalui API mid trans \
 :heavy_check_mark:  membuat  Payment Link 
-:heavy_check_mark: Limit Waktu Pembayaran;
+:heavy_check_mark: Limit Waktu Pembayaran
 
 ## :rocket: Technologies ##
 
@@ -64,10 +64,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/next-pay
+$ git clone https://github.com/StevanusAndika/Midtrans-Projek.git
 
 # Access
-$ cd next-pay
+$ cd Midtrans-Projek
 
 # Install dependencies
 $ yarn install or npm install
