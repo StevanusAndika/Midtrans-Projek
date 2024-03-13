@@ -1,5 +1,6 @@
 <div align="center" id="top"> 
-  <img src="https://midtrans-projek.vercel.app" alt="Mid Trans Projek" />
+ <img src="./sample.png" alt="Next Pay" />
+
 
   &#xa0;
 
@@ -44,7 +45,7 @@ membuat payment gateway dengan nextjs
 
 The following tools were used in this project:
 
-- [Node.js](https://expo.io/)
+- [Node.js](https://nodejs.org/en)
 - [Next.Js](https://nextjs.org/)
 - [Midtrans Payment Gateway](https://midtrans.com/)
 - [React](https://react.dev/)
